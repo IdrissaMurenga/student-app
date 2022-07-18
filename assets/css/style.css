@@ -25,7 +25,7 @@ body{
      align-items: center;
      gap: 1rem;
      background-color: #f7f7f7ea;
-     box-shadow: 0 15px 25px orangered;
+     box-shadow: 0 2px 5px orangered;
      border-radius: 10px;
 }
 #classInput, .input-name{
